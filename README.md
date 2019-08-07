@@ -5,7 +5,7 @@
 
 ### The lab comprises of full scale data science project development involving KDD process steps:
 
-[1] Python: basics and advanced 
+[1] Python for data science
 
 [2] Data Pre-processing
 
